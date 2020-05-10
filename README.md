@@ -15,7 +15,7 @@
 
 ### Setup Instructions
 
-1. Clone or Download from github, https://github.com/jadielmwangi/pitch-App
+1. Clone or Download from github, https://github.com/jadielmwangi/pitch-app  
 2. cd into the projectfolder
 3. run chmod+x on your project directory to grant permissions.
 4. ./start.sh to execute the program
