@@ -24,7 +24,7 @@ Jinja2==2.11.2
 keyring==10.6.0
 keyrings.alt==3.0
 Mako==1.1.2
-markdown2==2.3.8
+markdown2==2.4.0
 MarkupSafe==1.1.1
 psycopg2==2.8.5
 pycrypto==2.6.1
